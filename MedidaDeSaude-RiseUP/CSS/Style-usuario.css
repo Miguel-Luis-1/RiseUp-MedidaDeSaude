@@ -1,0 +1,25 @@
+.nav-top{
+    margin-top: -20px;
+    background-color: #b2c3c8;
+    border:  200px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+.logo-button{
+    margin-top: 5px;
+   margin-left: 300px;
+}
+.navbar-nav{
+   margin-top: 5px;
+   margin-left: 25px;
+   margin-right: 500px; 
+}
+.container-fluid{
+    margin-top: 10px;
+}
+body{
+    background-image: url(../IMG/Image-fundo.jpg);   
+    background-color: #d4dcde;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
