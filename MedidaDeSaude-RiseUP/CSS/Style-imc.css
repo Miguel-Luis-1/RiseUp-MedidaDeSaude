@@ -137,3 +137,37 @@ body{
 .bot3{
     margin-top: 14px;
 }
+.bots1{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.bots2{
+    margin-top: -40px;
+    margin-left: 120px;
+}
+.b1{
+    height: 0px;
+    width: 0px;
+}
+.b2{
+    height: 0px;
+    width: 0px; 
+    margin-left: 335px;
+    margin-top: -35px;
+}
+.homen{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+    margin-left: 25px;
+    margin-top: 8px;
+    height: 0px;
+    width:  0px;
+}
+.mulher{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+    margin-left: 470px;
+    margin-top: 2px;
+    height: 0px;
+    width:  0px;
+}
