@@ -76,6 +76,32 @@ body{
     margin-left: -170px;
 }
 .retangulo1{
+    background-color: #6768ab;
+    width: 220px;
+    height: 43px;
     margin-top: -64px;
     margin-left: 350px;
+}
+.retangulo2{
+    background-color: #6768ab;
+    width: 220px;
+    height: 43px;
+    margin-top: -64px;
+    margin-left: 350px;
+}
+.retangulo3{
+    background-color: #6768ab;
+    width: 220px;
+    height: 43px;
+    margin-top: -64px;
+    margin-left: 350px;
+}
+.sexo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; !important
+    text-align: left;
+}
+.form_field{
+    background-color: #6768ab;
+    width: 220px;
+    height: 43px;
 }
