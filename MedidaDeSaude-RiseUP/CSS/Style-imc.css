@@ -79,7 +79,7 @@ body{
     background-color: #6768ab;
     width: 220px;
     height: 43px;
-    margin-top: -64px;
+    margin-top: -40px;
     margin-left: 350px;
 }
 .retangulo2{
@@ -95,10 +95,45 @@ body{
     background-color: #6768ab;
     width: 220px;
     height: 43px;
+    margin-top: 25px;
 }
 .peso{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: #6768ab;
     width: 220px;
     height: 43px; 
+    margin-top: 25px;
+}
+.botao1{
+    text-align: center;
+    margin-top: 22px;
+    margin-left: 7px;
+    width: 40px;
+    height: 40px;
+    background-color: #edc371;
+}
+.bot1{
+    margin-top: 14px;
+}
+.botao2{
+    text-align: center;
+    margin-top: 22px;
+    margin-left: 5px;
+    width: 40px;
+    height: 40px;
+    background-color: #edc371;
+}
+.bot2{
+    margin-top: 14px;
+}
+.botao3{
+    text-align: center;
+    margin-top: 22px;
+    margin-left: 5px;
+    width: 40px;
+    height: 40px;
+    background-color: #edc371;s 
+}
+.bot3{
+    margin-top: 14px;
 }
