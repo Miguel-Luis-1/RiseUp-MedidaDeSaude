@@ -174,7 +174,19 @@ body{
 }
 .d-grid{
     margin-top: 20px;
+    margin-left: 125px;
 }
 .rodape{
     background-color: #6768ab;
+}
+.resultado{
+    background-color: #d5dddf;
+    width: 220px;
+    height: 43px;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+.resul{
+    text-align: center;
+    padding: 5px;
 }
