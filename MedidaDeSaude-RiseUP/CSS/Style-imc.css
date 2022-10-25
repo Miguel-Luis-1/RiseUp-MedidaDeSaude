@@ -199,12 +199,9 @@ body{
     background-color: rgb(156, 204, 247);
     text-align: center;
 }
-.squad{
-    background-color: rgb(156, 204, 247);
-    text-align: center;
-}
+
 .unit{
-    margin-top: -35px;
+    margin-top: -40px;
     margin-right: 1100px ;
 }
 .accenture{
