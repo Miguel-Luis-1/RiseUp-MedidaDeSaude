@@ -194,8 +194,24 @@ body{
     margin-top: 20px;
     margin-left: -50px;
 }
-.grupo{
-    
-    background-color: aliceblue;
+.rodape{
+    margin-top: 160px;
+    background-color: rgb(156, 204, 247);
     text-align: center;
+}
+.squad{
+    background-color: rgb(156, 204, 247);
+    text-align: center;
+}
+.unit{
+    margin-top: -35px;
+    margin-right: 1100px ;
+}
+.accenture{
+    margin-top: -150px;
+    margin-left: 1100px ;
+}
+.porto{
+    margin-top:  -160px;
+    margin-inline: 0;
 }
