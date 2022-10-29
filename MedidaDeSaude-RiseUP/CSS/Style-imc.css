@@ -133,7 +133,7 @@ body{
     margin-left: 5px;
     width: 40px;
     height: 40px;
-    background-color: #edc371;s 
+    background-color: #edc371;
 }
 .bot3{
     margin-top: 14px;
@@ -176,9 +176,6 @@ body{
     margin-top: 20px;
     margin-left: 125px;
 }
-.rodape{
-    background-color: #6768ab;
-}
 .resultado{
     background-color: #d5dddf;
     width: 220px;
@@ -193,22 +190,30 @@ body{
 .tabela-imc{
     margin-top: 20px;
     margin-left: -50px;
+    padding-bottom: 20px;
 }
-.rodape{
-    margin-top: 160px;
+footer.navbar-fixed-bottom {
     background-color: rgb(156, 204, 247);
+    position:absolute;
+    left: 0;
+    right: 0;
+ }
+.unit{
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 300px;
+}
+.accenture{
+    margin-top: -100px;
+    margin-left: 900px;
+}
+.porto{
+    text-align: center;
+    margin-top: -139px;
+    margin-inline: 0;
+}
+.squad{
     text-align: center;
 }
 
-.unit{
-    margin-top: -40px;
-    margin-right: 1100px ;
-}
-.accenture{
-    margin-top: -150px;
-    margin-left: 1100px ;
-}
-.porto{
-    margin-top:  -160px;
-    margin-inline: 0;
-}
+
