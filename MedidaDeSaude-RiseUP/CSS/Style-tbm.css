@@ -23,3 +23,26 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+footer.navbar-fixed-bottom {
+    background-color: rgb(156, 204, 247);
+    position:absolute;
+    left: 0;
+    right: 0;
+ }
+.unit{
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 300px;
+}
+.accenture{
+    margin-top: -100px;
+    margin-left: 900px;
+}
+.porto{
+    text-align: center;
+    margin-top: -139px;
+    margin-inline: 0;
+}
+.squad{
+    text-align: center;
+}
