@@ -193,23 +193,23 @@ body{
     padding-bottom: 40px;
 }
 footer.navbar-fixed-bottom {
-    background-color: rgb(156, 204, 247);
+    background-color: #b2c3c8;
     position:absolute;
     left: 0;
     right: 0;
  }
 .unit{
-    margin-top: 0px;
+    margin-top: 10px;
     margin-right: 0px;
     margin-left: 300px;
 }
 .accenture{
-    margin-top: -100px;
+    margin-top: -70px;
     margin-left: 900px;
 }
 .porto{
     text-align: center;
-    margin-top: -139px;
+    margin-top: -70px;
     margin-inline: 0;
 }
 .squad{
