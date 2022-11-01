@@ -23,24 +23,41 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.form-floating{
+    margin-top: 15px;
+}
+.d-grid{
+    margin-top: 10px;
+}
+.btnEntrar{
+    margin-left: 230px;
+}
+.btnCriarConta{
+    margin-top: -38px;
+    margin-left: 300px;
+}
+
+
+
 footer.navbar-fixed-bottom {
-    background-color: rgb(156, 204, 247);
+    margin-top: 50px;
+    background-color: #b2c3c8;
     position:absolute;
     left: 0;
     right: 0;
  }
 .unit{
-    margin-top: 0px;
+    margin-top: 10px;
     margin-right: 0px;
     margin-left: 300px;
 }
 .accenture{
-    margin-top: -100px;
+    margin-top: -70px;
     margin-left: 900px;
 }
 .porto{
     text-align: center;
-    margin-top: -139px;
+    margin-top: -70px;
     margin-inline: 0;
 }
 .squad{
