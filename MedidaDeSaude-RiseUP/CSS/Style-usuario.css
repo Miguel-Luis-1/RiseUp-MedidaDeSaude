@@ -30,11 +30,15 @@ body{
     margin-top: 10px;
 }
 .btnEntrar{
-    margin-left: 230px;
+    margin-left: 130px;
 }
 .btnCriarConta{
     margin-top: -38px;
-    margin-left: 300px;
+    margin-left: 200px;
+}
+.btnEsqSenha{
+    margin-top: -38px;
+    margin-left: 308px; 
 }
 
 
