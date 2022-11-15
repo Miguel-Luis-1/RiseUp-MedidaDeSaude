@@ -1,0 +1,64 @@
+.nav-top{
+    margin-top: -20px;
+    background-color: #b2c3c8;
+    border:  200px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+.logo-button{
+    margin-top: 5px;
+   margin-left: 300px;
+}
+.navbar-nav{
+   margin-top: 5px;
+   margin-left: 25px;
+   margin-right: 500px; 
+}
+.container-fluid{
+    margin-top: 10px;
+}
+body{
+    background-image: url(../IMG/Image-fundo.jpg);   
+    background-color: #d4dcde;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form-floating{
+    margin-top: 15px;
+}
+.d-grid{
+    margin-top: 10px;
+}
+.nome{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+.emailusuario{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+
+
+
+footer.navbar-fixed-bottom {
+    margin-top: 50px;
+    background-color: #b2c3c8;
+    position:absolute;
+    left: 0;
+    right: 0;
+ }
+.unit{
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-left: 300px;
+}
+.accenture{
+    margin-top: -70px;
+    margin-left: 900px;
+}
+.porto{
+    text-align: center;
+    margin-top: -70px;
+    margin-inline: 0;
+}
+.squad{
+    text-align: center;
+}
