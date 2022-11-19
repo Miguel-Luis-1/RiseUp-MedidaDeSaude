@@ -23,24 +23,128 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.tituloDaPagina{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.espaco1{
+    background-color: #a0c2cd;
+    height: 400px;
+}
+.espaco2{
+    background-color: #a0c2cd;
+    height: 400px;
+}
+.calculo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.tituloCalculo{
+   padding-top: 20px;
+   text-align: center;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.col-md-6{
+    padding: 10px;
+    margin-left: 70px;
+}
+.col-12{
+    padding: 10px;
+    margin-left: 90px;
+}
+.descricao{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.tituloResultado{
+    padding-top: 20px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.resultadotbm{
+    background-color: #6768ab;
+    width: 100px;
+    height: 30px;
+    margin-left: 80px;
+    margin-top: -40px;
+}
+.textresultadotbm{
+    padding-left: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+}
+.resultadotext{
+    text-align: center;
+}
+.tituloResultado2{
+    padding: 20px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.ndcsem{
+    margin-top: -20px;
+    padding-left: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+}
+.resultadondcsem{
+    background-color: #6768ab;
+    width: 100px;
+    height: 30px;
+    margin-left: 120px;
+    margin-top: -60px;
+}
+.resultadotextndcsem{
+    text-align: center;
+}
+.ndcmode{
+    margin-top: 30px;
+    padding-left: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+}
+.resultadondcmode{
+    background-color: #6768ab;
+    width: 100px;
+    height: 30px;
+    margin-left: 120px;
+    margin-top: -40px;
+}
+.resultadotextndcmode{
+    text-align: center;
+}
+.ndcinten{
+    margin-top: 20px;
+    padding-left: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+}
+.resultadondcinten{
+    background-color: #6768ab;
+    width: 100px;
+    height: 30px;
+    margin-left: 120px;
+    margin-top: -40px;
+}
+.resultadotextndcinten{
+    text-align: center;
+}
 footer.navbar-fixed-bottom {
-    background-color: rgb(156, 204, 247);
+    background-color: #b2c3c8;
     position:absolute;
+    margin-top: 50px;
     left: 0;
     right: 0;
  }
 .unit{
-    margin-top: 0px;
+    margin-top: 10px;
     margin-right: 0px;
     margin-left: 300px;
 }
 .accenture{
-    margin-top: -100px;
+    margin-top: -70px;
     margin-left: 900px;
 }
 .porto{
     text-align: center;
-    margin-top: -139px;
+    margin-top: -70px;
     margin-inline: 0;
 }
 .squad{

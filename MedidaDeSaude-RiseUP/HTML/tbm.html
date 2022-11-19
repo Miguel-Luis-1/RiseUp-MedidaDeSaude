@@ -37,48 +37,98 @@
       <div class="container">
         <div class="row">
           <div class="col"><!--Coluna do lateral-->
-            XXX
           </div>
           <div class="col-7"> <!--Coluna do meio-->
-            2 of 3 (wider)
+            <div class="tituloDaPagina"><!--Tutulo da pagina-->
+             <h1>TMB</h1>
+            </div><!--Tutulo da pagina-->
+            <div class="container"><!--colteiner dos capos de calculo-->
+              <div class="row">
+                <div class="col"><!--colteiner esquerdo-->
+                  <div class="espaco1"><!--conteudo-->
+                    <div class="row">       
+                      <div class="calculo">
+                        <h3 class="tituloCalculo">Nos informe:</h3>
+                          <div class="col-md-6">
+                            <label for="validationCustom03" class="form-label" >Peso</label>
+                            <input type="number" class="form-control" id="validationCustom03" placeholder="kg" min="0" max="3000">                          
+                          </div>                         
+                          <div class="col-md-6">
+                            <label for="validationCustom03" class="form-label">Altura</label>
+                            <input type="number" class="form-control" id="validationCustom03" placeholder="cm"min="0" max="400">                         
+                          </div>                                                   
+                          <div class="col-md-6">
+                            <label for="validationCustom05" class="form-label">Idade</label>
+                            <input type="number" class="form-control" id="validationCustom05" placeholder="Anos" min="1" max="150">                            
+                          </div>                          
+                          <div class="col-12">
+                            <button class="btn btn-primary" type="submit" style="background-color: #6768ab;">Calcular</button>
+                          </div>                      
+                      </div>                          
+                    </div>
+                  </div><!--conteudo-->
+                </div><!--colteiner esquerdo-->
+                <div class="col"><!--colteiner direito-->
+                 <div class="espaco2"><!--conteudo-->
+                  <h3 class="tituloResultado">Resultado:</h3>
+                  <p class="textresultadotbm">Sua TBM:</p>
+                  <div class="resultadotbm">
+                    <p class="resultadotext">2138.30</p> 
+                  </div>
+                  <div class="tituloResultado2"> <h3>Sua necessidade diaria de calorias:</h3></div>
+                  <p class="ndcsem">Sem pratica <br> de atividades:</p>
+                  <div class="resultadondcsem">
+                    <p class="resultadotextndcsem">2672.88</p> 
+                  </div>
+                  <p class="ndcmode">Atividade <br> moderada:</p>
+                  <div class="resultadondcmode">
+                    <p class="resultadotextndcmode">2886.70</p> 
+                  </div>
+                  <p class="ndcinten">Atividade <br> intensa:</p>
+                  <div class="resultadondcinten">
+                    <p class="resultadotextndcinten">3100.54</p> 
+                  </div>
+                 </div><!--conteudo-->
+                </div><!--colteiner direito-->
+              </div>
+          </div><!--colteiner dos capos de calculo-->
+          <div class="descricao">
+            <p>Metabolismo basal ou Taxa metabólica basal é um método matemático, não exato, de calcular a quantidade calórica que o corpo necessita, em vinte e quatro horas</p>
+          </div>
           </div>
           <div class="col"><!--Coluna do lateral-->
-            XXX
           </div>
         </div>
-
     </section>
-    
- <!--Rodapé-->
- <footer class="footer navbar-fixed-bottom">
-  <div class="rodape" >
-<!--Logo da Unit-->
-<div class="col-md-8">
- <div class = "unit">
- <img src="../IMG/Unit.png" alt="" width="80" height="100">
- </div>
- </div>
-<!--Logo da Acenture-->
-<div class="col-md-8">
-<div class="accenture">
-  <img src="../IMG/accenture.png" alt="" width="105" height="120">
-</div>
-</div>
-<!--Logo do porto-->
- <div class="porto">
-     <img src="../IMG/porto.png" alt="" width="140" height="160">
-  </div>
-<br></br><br></b>
-<!--Nome Dos Componentes do Squad-->
-  <div class= squad>
-        <p><strong> Squad 14: Artur Henrique ,Daniel Vilela ,Emily Raquel ,Geovane Pontes ,Helton Escobar ,Miguel Luis ,Jose Carlos ,Paulo Messias ,Vinicius Santana </p></strong>
-  </div>
-<!--Link do boostrap e CSS-->
-   <link rel="stylesheet" href="../CSS/Style-imc.css">
-   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-</footer>
-</body>
+    <!--Rodapé-->
+    <footer class="footer navbar-fixed-bottom">
+      <div class="rodape" >
+    <!--Logo da Unit-->
+    <div class="col-md-8">
+    <div class = "unit">
+    <img src="../IMG/Unit.png" alt="" width="110" height="70">
+    </div>
+    </div>
+    <!--Logo da Acenture-->
+    <div class="col-md-8">
+    <div class="accenture">
+      <img src="../IMG/accenture.png" alt="" width="120" height="80">
+    </div>
+    </div>
+    <!--Logo do porto-->
+    <div class="porto">
+        <img src="../IMG/porto.png" alt="" width="150" height="100">
+      </div>
+    <!--Nome Dos Componentes do Squad-->
+      <div class= squad>
+            <p><strong> Squad 14: Artur Henrique, Daniel Vilela, Emily Raquel, Geovane Pontes, Helton Escobar, Miguel Luis, Jose Carlos, Paulo Messias, Vinicius Santana </p></strong>
+      </div>
+    <!--Link do boostrap e CSS-->
+      <link rel="stylesheet" href="../CSS/Style-tbm.css">
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    </footer>
+  </body>
 </html>
 
    
