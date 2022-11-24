@@ -49,8 +49,30 @@
             </div> <!--Div das infromações-->
             <div class="bntacaonaconta"><!--Div dos boõess-->
                 <div class="btn-group">
-                    <a href="../HTML/usuario.html" class="btn btn-primary"style="background-color: #6768ab;">Sair da conta</a>
-                    <a href="#" class="btn btn-primary"style="background-color: #6768ab;">Editar a conta</a>
+                    <a href="../HTML/usuario.html" class="btn btn-primary"style="background-color: #6768ab;">Sair da conta</a>           
+                  </div>
+                  <!--Botão de editar-->
+                  <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@mdo" style="background-color: #6768ab;">Editar Meta</button>         
+                  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalLabel">Meta</h5>
+                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                          <form>                       
+                            <div class="mb-3">
+                              <label for="message-text" class="col-form-label">Meta:</label>
+                              <textarea class="form-control" id="message-text" placeholder="Escreva a sua meta, o que você deseja alcançar."></textarea>
+                            </div>
+                          </form>
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-primary">OK</button>
+                        </div>
+                      </div>
+                    </div>
                   </div>
             </div> <!--Div dos boõess-->                 
             <table class="table caption-top">
